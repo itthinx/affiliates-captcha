@@ -7,7 +7,7 @@ Tested up to: 4.3
 Stable tag: 1.0.0
 License: GPLv3
 
-Affiliates, Affiliates Pro and Affiliates Enterprise integration with [Captcha](http://wordpress.org/plugins/captcha/).
+Affiliates, Affiliates Pro and Affiliates Enterprise integration with the Captcha plugin.
 
 == Description ==
 
