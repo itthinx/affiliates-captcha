@@ -2,7 +2,7 @@
 /**
  * affiliates-captcha.php
  *
- * Copyright (c) 2015 www.itthinx.com
+ * Copyright (c) 2015 - 2017 www.itthinx.com
  *
  * This code is released under the GNU General Public License.
  * See COPYRIGHT.txt and LICENSE.txt.
@@ -21,7 +21,7 @@
  * Plugin Name: Affiliates Captcha
  * Plugin URI: https://github.com/itthinx/affiliates-captcha
  * Description: Affiliates registration Captcha integration.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: itthinx
  * Author URI: http://www.itthinx.com
  */
