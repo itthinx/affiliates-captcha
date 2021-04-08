@@ -1,0 +1,1 @@
+This plugin is no longer maintained because the plugin it integrates with was closed as of December 22, 2017.
